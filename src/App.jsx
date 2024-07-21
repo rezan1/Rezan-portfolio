@@ -94,7 +94,7 @@ const jobSummaries = [
     Position: "Programmer/SDET",
     Date: "May 2007 – May 2011",
     company: 'United Parcel Service, Inc.',
-    Location: "Mahwah, NJ",
+    Location: "New York, NY",
     Bullets: [
       "Served as internal consultant to testing teams by assisting them with finding opportunities for test automation and providing testing tool training, technical support, POC automation, and framework setup during their automation efforts.",
       "Designed and developed Performance Testing scripts and scenarios using LoadRunner",
@@ -113,9 +113,9 @@ function App() {
       />
       <Box sx={{ bgcolor: 'background.default' }}>
         <Profile
-          name="Joe DeFilippo"
-          role="Founder"
-          githubUrl="https://github.com/joedefilippo"
+          name="Mehmet Rezan Altinkaynak"
+          role="Software QA Engineer"
+          githubUrl="https://github.com/rezan1"
         />
         <About
           certifications={[
@@ -160,8 +160,8 @@ function App() {
         />
         <Divider/>
         <Contact
-          email={"contact@softwarequalityassociates.com"}
-          linkedInUrl={"https://www.linkedin.com/josephdefilippo"}
+          email={"rezanaltinkaynak@gmail.com"}
+          linkedInUrl={"https://www.linkedin.com/in/mehmet-rezan-altinkaynak-98243036/"}
         />
         
       </Box>
