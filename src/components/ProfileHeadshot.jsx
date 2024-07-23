@@ -1,4 +1,4 @@
-import Headshot from "../assets/Profile.png"
+import Headshot from "../assets/Rznprfl.jpg"
 export default function ProfileHeadshot(){
     return (
         <img className='rounded-full' src={Headshot} alt="Profile headshot" />
